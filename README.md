@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">💻 Gosto muito de Tecnologia, Jogos e sistemas Operacionais. Atualmente, estou focado em estudos e raramente uso o github.<br><br>🚀 Tecnologias que uso:<br><br>Python | Codigo Lua | Git | Desenvolvimento com IA<br><br>🌟 Sempre em busca de soluções eficientes e escaláveis para melhorar os fluxos de trabalho.</p>
+<p align="left">💻 Gosto muito de Tecnologia, Jogos e sistemas Operacionais. Atualmente, estou focado em estudos e raramente uso o github.<br><br>🚀 Tecnologias que uso:<br><br>Python | Codigo Lua | Git | Desenvolvimento com IA<br><br>🌟 Sempre em busca de soluções eficientes e escaláveis para melhorar.</p>
 
 ###
 
