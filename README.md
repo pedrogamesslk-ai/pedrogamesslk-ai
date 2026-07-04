@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <p align="left">💻 Gosto muito de Tecnologia, Jogos e sistemas Operacionais. Atualmente, estou focado em estudos e raramente uso o github.<br><br>🚀 Tecnologias que uso:<br><br>Python | Codigo Lua | Git | Desenvolvimento com IA<br><br>🌟 Sempre em busca de soluções eficientes e escaláveis para melhorar os fluxos de trabalho.</p>
 
+###
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pedrogamesslk-ai&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=pedrogamesslk-ai&include_all_commits=true&theme=dark)                                       <img width="12" />                                             [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrogamesslk-ai&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrogamesslk-ai&langs_count=4&theme=dark)
+
 ### 
 
 <h2 align="left">Minhas Habilidades</h3>
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 ### 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="60" alt="Lua logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="60" alt="Lua logo" />                                 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git Logo" />
   <img width="12" />
@@ -60,7 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Sistemas Operacionais Que Uso</h3>
+<p align="left">Sistemas Operacionais Que Uso</h3>                                                                                             
 
 ###
 
