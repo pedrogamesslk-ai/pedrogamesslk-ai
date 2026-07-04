@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pedrogamesslk-ai&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=pedrogamesslk-ai&include_all_commits=true&theme=dark)                                       <img width="12" />                                             [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pedrogamesslk-ai&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=pedrogamesslk-ai&langs_count=4&theme=dark)
 
+<div> 
+  <a href="https://www.youtube.com/@PedroGamesSlk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://anonymousemail.me/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
 ### 
 
 <h2 align="left">Minhas Habilidades</h3>
@@ -48,7 +54,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60" alt="csharp icon" />   
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60" alt="csharp icon" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />  
 </div>
 
 ###
@@ -74,16 +83,4 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://img.icons8.com/color/96/linux--v1.png" height="55" alt="Linux Logo" />
   <img width="12" />
-</div>
-
-###
-
-<h3 align="left">Meus Contatos</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:Pedro-TI-1324@proton.me" target="_blank">
-   <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="70" alt="gmail logo"  />
-  </a>
 </div>
