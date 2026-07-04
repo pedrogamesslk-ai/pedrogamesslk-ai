@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://www.lua.org/portugues.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="60" alt="python logo" />
-  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="python logo" />
   <img width="12" />
