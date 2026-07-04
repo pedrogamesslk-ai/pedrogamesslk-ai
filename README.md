@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/roblox-studio.png" height="60" alt="Roblox Studio"
+  <img src="https://img.icons8.com/color/48/roblox-studio.png" height="70" alt="Roblox Studio"
 </div>
 
 ###
