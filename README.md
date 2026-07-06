@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="Vs code logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/roblox-studio.png" height="70" alt="Roblox Studio"
+  <img src="https://img.icons8.com/color/48/roblox-studio.png" height="70" alt="Roblox Studio" />
 </div>
 
 ###
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align-"left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="50" alt="Windows 11 logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/96/linux--v1.png" height="55" alt="Linux Logo" />
